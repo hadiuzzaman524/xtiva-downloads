@@ -13,6 +13,12 @@
 </p>
 
 <p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.metawave.xtreamiptv"><img src="https://img.shields.io/badge/Get_it_on-Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play" height="40"></a>
+  &nbsp;
+  <a href="https://apps.apple.com/app/id6809854986"><img src="https://img.shields.io/badge/Download_on_the-App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store" height="40"></a>
+</p>
+
+<p align="center">
   <a href="https://github.com/hadiuzzaman524/xtiva-downloads/releases/latest"><img src="https://img.shields.io/github/v/release/hadiuzzaman524/xtiva-downloads?label=latest&style=flat-square&color=EC3013" alt="Latest release"></a>
   <a href="https://github.com/hadiuzzaman524/xtiva-downloads/releases"><img src="https://img.shields.io/github/downloads/hadiuzzaman524/xtiva-downloads/total?style=flat-square&color=EC3013" alt="Downloads"></a>
   <a href="https://xtiva.app"><img src="https://img.shields.io/badge/website-xtiva.app-EC3013?style=flat-square" alt="Website"></a>
@@ -26,7 +32,16 @@
 
 ## Download
 
-### 📺 TV, Fire TV and TV boxes: Downloader code
+### 1. Official stores (recommended)
+
+Install from the store whenever your device has one: updates arrive by themselves.
+
+| Store | Devices |
+| --- | --- |
+| [**Google Play**](https://play.google.com/store/apps/details?id=com.metawave.xtreamiptv) | Android phones and tablets, Android TV, Google TV |
+| [**App Store**](https://apps.apple.com/app/id6809854986) | iPhone, iPad, Mac (Apple silicon), Apple TV |
+
+### 2. No Google Play? Fire TV and TV boxes: Downloader code
 
 <p align="center">
   <b>Downloader code</b><br>
@@ -35,9 +50,9 @@
 
 Open the **Downloader** app on your TV, type **`3989336`** and press **Go**. See [Install on a TV](#install-on-a-tv) for the full steps.
 
-### Direct links
+### 3. Direct APK links
 
-These links always point to the newest version.
+For Android devices without Google Play. These links always point to the newest version.
 
 | Device | Download | Size |
 | --- | --- | --- |
@@ -46,15 +61,6 @@ These links always point to the newest version.
 | Not sure, or neither installs | [xtiva.apk](https://github.com/hadiuzzaman524/xtiva-downloads/releases/latest/download/xtiva.apk) | ~243 MB |
 
 The TV file also runs on most older phones. The large file works on every Android device; it is only bigger. Older versions are on the [Releases](https://github.com/hadiuzzaman524/xtiva-downloads/releases) page.
-
-### From the app stores
-
-<p>
-  <a href="https://play.google.com/store/apps/details?id=com.metawave.xtreamiptv"><img src="https://img.shields.io/badge/Google_Play-Android_·_Android_TV_·_Google_TV-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
-  <a href="https://apps.apple.com/app/id6809854986"><img src="https://img.shields.io/badge/App_Store-iPhone_·_iPad_·_Mac_·_Apple_TV-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
-</p>
-
-On a device with Google Play, installing from Play is the easiest option: it updates by itself.
 
 ---
 
@@ -93,8 +99,7 @@ Free to download and use. Xtiva Pro is an optional in-app upgrade.
 **Set up the TV from your phone**
 
 <p>
-  <img src="assets/tv-setup.webp" alt="TV setup with QR code" width="73%">
-  <img src="assets/phone-form.webp" alt="Phone sends the login" width="24%">
+  <img src="assets/phone-to-tv.webp" alt="The TV shows a QR code; the phone's camera scans it and finds the TV" width="100%">
 </p>
 
 **Android phone**
