@@ -161,6 +161,7 @@ Updates, tips and conversations.
 
 <p align="center">
   <img src="assets/app-icon.png" alt="" width="56"><br>
-  <a href="https://xtiva.app">xtiva.app</a> · <a href="https://xtiva.app/privacy-policy.html">Privacy</a> · <a href="https://xtiva.app/terms.html">Terms</a><br>
+  <a href="https://xtiva.app">xtiva.app</a> · <a href="https://xtiva.app/privacy-policy.html">Privacy</a> · <a href="https://xtiva.app/terms.html">Terms</a> · <a href="LICENSE">License</a><br>
+  <sub>© 2026 Axovate Labs. All rights reserved.</sub><br>
   <sub>Xtiva is a player. No channels, playlists or media are included.</sub>
 </p>
