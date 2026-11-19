@@ -8,7 +8,7 @@
 <h3 align="center">The player. Your world.</h3>
 
 <p align="center">
-  A free IPTV player for Android phones, tablets, Android TV, Google TV and Fire TV.<br>
+  A free IPTV player for Android phones, tablets, Android TV, Google TV and Fire TV, also on iPhone, iPad, Mac and Apple TV.<br>
   Bring your own Xtream Codes or M3U playlist and watch with a TV guide, a movie and series library, and two playback engines.
 </p>
 
@@ -113,6 +113,29 @@ Free to download and use. Xtiva Pro is an optional in-app upgrade.
   <img src="assets/phone-home.webp" alt="Home" width="32%">
   <img src="assets/phone-live-tv.webp" alt="Live TV" width="32%">
   <img src="assets/phone-series-details.webp" alt="Series details" width="32%">
+</p>
+
+### Also on the App Store
+
+> [!NOTE]
+> Xtiva for iPhone, iPad, Mac and Apple TV comes from the [App Store](https://apps.apple.com/app/id6809854986) only. The APK files in this repository are for Android.
+
+**Apple TV**
+
+<p>
+  <img src="assets/apple-tv-live-tv.webp" alt="Apple TV: live TV with the channel list" width="49%">
+  <img src="assets/apple-tv-guide.webp" alt="Apple TV: TV guide" width="49%">
+  <img src="assets/apple-tv-series.webp" alt="Apple TV: series" width="49%">
+  <img src="assets/apple-tv-movie.webp" alt="Apple TV: movies" width="49%">
+</p>
+
+**iPhone**
+
+<p>
+  <img src="assets/iphone-home.webp" alt="iPhone: home" width="24%">
+  <img src="assets/iphone-live-tv.webp" alt="iPhone: live TV" width="24%">
+  <img src="assets/iphone-series.webp" alt="iPhone: series" width="24%">
+  <img src="assets/iphone-catch-up.webp" alt="iPhone: catch-up" width="24%">
 </p>
 
 ---
