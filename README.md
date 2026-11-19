@@ -44,9 +44,10 @@ Install from the store whenever your device has one: updates arrive by themselve
 ### 2. No Google Play? Fire TV and TV boxes: Downloader code
 
 <p align="center">
-  <b>Downloader code</b><br>
-  <code><b>3989336</b></code>
+  <a href="#install-on-a-tv"><img src="assets/downloader-code.svg" alt="Downloader code 3989336" width="480"></a>
 </p>
+
+<p align="center">Code: <code>3989336</code></p>
 
 Open the **Downloader** app on your TV, type **`3989336`** and press **Go**. See [Install on a TV](#install-on-a-tv) for the full steps.
 
