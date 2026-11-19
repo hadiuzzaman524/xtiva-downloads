@@ -1,26 +1,156 @@
-# Xtiva downloads
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/logo-dark-bg.svg">
+    <img src="assets/logo-light-bg.svg" alt="Xtiva" width="260">
+  </picture>
+</p>
 
-Direct download of the Xtiva Android app. Pick the file for your device. These links always point to the newest release.
+<h3 align="center">The player. Your world.</h3>
 
-| Device | Link | Size |
+<p align="center">
+  A free IPTV player for Android phones, tablets, Android TV, Google TV and Fire TV.<br>
+  Bring your own Xtream Codes or M3U playlist and watch with a TV guide, a movie and series library, and two playback engines.
+</p>
+
+<p align="center">
+  <a href="https://github.com/hadiuzzaman524/xtiva-downloads/releases/latest"><img src="https://img.shields.io/github/v/release/hadiuzzaman524/xtiva-downloads?label=latest&style=flat-square&color=EC3013" alt="Latest release"></a>
+  <a href="https://github.com/hadiuzzaman524/xtiva-downloads/releases"><img src="https://img.shields.io/github/downloads/hadiuzzaman524/xtiva-downloads/total?style=flat-square&color=EC3013" alt="Downloads"></a>
+  <a href="https://xtiva.app"><img src="https://img.shields.io/badge/website-xtiva.app-EC3013?style=flat-square" alt="Website"></a>
+</p>
+
+<p align="center">
+  <img src="assets/tv-home.webp" alt="Xtiva on Android TV" width="860">
+</p>
+
+---
+
+## Download
+
+### 📺 TV, Fire TV and TV boxes: Downloader code
+
+<p align="center">
+  <b>Downloader code</b><br>
+  <code><b>3989336</b></code>
+</p>
+
+Open the **Downloader** app on your TV, type **`3989336`** and press **Go**. See [Install on a TV](#install-on-a-tv) for the full steps.
+
+### Direct links
+
+These links always point to the newest version.
+
+| Device | Download | Size |
 | --- | --- | --- |
-| **Android TV, Fire TV, TV boxes** | https://github.com/hadiuzzaman524/xtiva-downloads/releases/latest/download/xtiva-tv.apk | ~58 MB |
-| **Phones and tablets** | https://github.com/hadiuzzaman524/xtiva-downloads/releases/latest/download/xtiva-mobile.apk | ~67 MB |
-| Not sure / neither works | https://github.com/hadiuzzaman524/xtiva-downloads/releases/latest/download/xtiva.apk | ~243 MB |
+| **Android TV, Google TV, Fire TV, TV boxes** | [**xtiva-tv.apk**](https://github.com/hadiuzzaman524/xtiva-downloads/releases/latest/download/xtiva-tv.apk) | ~58 MB |
+| **Android phones and tablets** | [**xtiva-mobile.apk**](https://github.com/hadiuzzaman524/xtiva-downloads/releases/latest/download/xtiva-mobile.apk) | ~67 MB |
+| Not sure, or neither installs | [xtiva.apk](https://github.com/hadiuzzaman524/xtiva-downloads/releases/latest/download/xtiva.apk) | ~243 MB |
 
-The TV file also runs on most older phones. The large file works on every device; it is only bigger. Older versions are on the [Releases](https://github.com/hadiuzzaman524/xtiva-downloads/releases) page.
+The TV file also runs on most older phones. The large file works on every Android device; it is only bigger. Older versions are on the [Releases](https://github.com/hadiuzzaman524/xtiva-downloads/releases) page.
 
-On a phone with Google Play, installing from [Google Play](https://play.google.com/store/apps/details?id=com.metawave.xtreamiptv) is simpler: it updates by itself.
+### From the app stores
 
-## Install on Android TV / Fire TV with Downloader
+<p>
+  <a href="https://play.google.com/store/apps/details?id=com.metawave.xtreamiptv"><img src="https://img.shields.io/badge/Google_Play-Android_·_Android_TV_·_Google_TV-414141?style=for-the-badge&logo=googleplay&logoColor=white" alt="Get it on Google Play"></a>
+  <a href="https://apps.apple.com/app/id6809854986"><img src="https://img.shields.io/badge/App_Store-iPhone_·_iPad_·_Mac_·_Apple_TV-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" alt="Download on the App Store"></a>
+</p>
 
-1. Install **Downloader** from your TV's app store.
-2. Allow Downloader to install unknown apps (Settings → Privacy / Security → Install unknown apps).
-3. Open Downloader and enter the TV link above (or the Downloader code you were given).
-4. When the download finishes, choose **Install**.
+On a device with Google Play, installing from Play is the easiest option: it updates by itself.
+
+---
+
+## What is Xtiva?
+
+Xtiva is a player and nothing else. It ships **empty**: you connect the IPTV service you already subscribe to. No account is needed.
+
+**Add your source your way**
+- **Xtream Codes**: server address, username and password
+- **M3U / M3U8** playlist link
+- **Quick Play**: a direct stream URL
+- **Restore a backup**: a `.xtiva` file exported from Xtiva on another device
+- **Scan with your phone**: set up the TV by scanning its QR code with Xtiva on your phone, no typing with the remote
+
+**Watch**
+- **Live TV** with a programme guide (EPG), favourites and channel switching without leaving playback
+- **Catch-up** for channels your provider archives
+- **Movies and series** on genre shelves with posters, ratings and continue watching
+- **Search** across your whole playlist
+- **Two playback engines**, ExoPlayer and VLC: switch when a stream needs it
+- **Several playlists** in one app, with a **Kids profile** and PIN
+
+Free to download and use. Xtiva Pro is an optional in-app upgrade.
+
+## Screenshots
+
+**Android TV**
+
+<p>
+  <img src="assets/tv-guide.webp" alt="TV guide" width="49%">
+  <img src="assets/tv-player.webp" alt="Player" width="49%">
+  <img src="assets/tv-movies.webp" alt="Movies" width="49%">
+  <img src="assets/tv-series.webp" alt="Series" width="49%">
+</p>
+
+**Set up the TV from your phone**
+
+<p>
+  <img src="assets/tv-setup.webp" alt="TV setup with QR code" width="73%">
+  <img src="assets/phone-form.webp" alt="Phone sends the login" width="24%">
+</p>
+
+**Android phone**
+
+<p>
+  <img src="assets/phone-home.webp" alt="Home" width="32%">
+  <img src="assets/phone-live-tv.webp" alt="Live TV" width="32%">
+  <img src="assets/phone-series-details.webp" alt="Series details" width="32%">
+</p>
+
+---
+
+## Install on a TV
+
+1. Install **Downloader** (by AFTVnews) from your TV's app store.
+2. Let Downloader install apps:
+   - **Fire TV:** Settings → My Fire TV → Developer options → Install unknown apps → Downloader → On. If Developer options is hidden, open Settings → My Fire TV → About and click the device name 7 times.
+   - **Android TV / Google TV:** Settings → Apps → Security & restrictions → Unknown sources → Downloader → On (on some boxes: Settings → Device preferences → Security).
+3. Open Downloader, enter **`3989336`** and press **Go**.
+4. When the download finishes, choose **Install**, then **Open**.
+5. Back in Downloader, choose **Delete** to free the space the file used.
 
 ## Install on a phone
 
-Open the phone link above in your browser, download the file and open it. Allow your browser to install unknown apps when asked.
+1. Open the [phone download](https://github.com/hadiuzzaman524/xtiva-downloads/releases/latest/download/xtiva-mobile.apk) in your browser.
+2. Open the downloaded file. If asked, allow your browser to install unknown apps.
+3. Choose **Install**.
 
-> If Xtiva is already installed from Google Play, Android may refuse to install this file over it ("App not installed" / conflicting package). Uninstall the Play version first, or keep updating from Google Play.
+> [!NOTE]
+> If Xtiva is already installed from Google Play, Android may refuse to install a downloaded file over it ("App not installed"). Keep updating from Google Play, or uninstall the Play version first. Uninstalling removes your sources and settings on that device.
+
+## Before you press play
+
+**Does Xtiva come with channels?** No. It is a player only. You need your own IPTV subscription (Xtream Codes details or an M3U link). We neither supply nor sell content.
+
+**A channel will not play.** Switch the playback engine in Settings (ExoPlayer ⇄ VLC), check your connection, and check that the same stream works with your provider.
+
+**How do I update?** Download again from the same link or Downloader code. They always point to the newest version, and installing over your current Xtiva keeps your sources.
+
+---
+
+## Join the community
+
+Updates, tips and conversations.
+
+<p>
+  <a href="https://discord.gg/pZ7wDGQ8B3"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.facebook.com/p/Xtiva-61594036323576/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
+  <a href="https://www.instagram.com/xtiva.app/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+  <a href="https://x.com/xtivaapp"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"></a>
+  <a href="https://www.youtube.com/channel/UCNgS0kk5SkhdkcisSd9FOvA"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.linkedin.com/company/xtiva"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+<p align="center">
+  <img src="assets/app-icon.png" alt="" width="56"><br>
+  <a href="https://xtiva.app">xtiva.app</a> · <a href="https://xtiva.app/privacy-policy.html">Privacy</a> · <a href="https://xtiva.app/terms.html">Terms</a><br>
+  <sub>Xtiva is a player. No channels, playlists or media are included.</sub>
+</p>
